@@ -1,0 +1,28 @@
+penpot
+figma
+gradient backgrounds
+awwwards
+codepen
+grid garden
+css diner
+css battle
+
+
+Resume Score check:
+
+
+
+
+
+---------------------------------------------------
+Animations: nothing but multiple transitions where itstarts without any
+user inter
+
+Responsiveness: A website should supports and have a clean structure in 
+    multiple screens/devices of different sizes.
+To make website more responsive, try to use vh,vw,em,rem,%.
+CSS allows 'media Queries' to make website responsive
+media Queries contains:
+        min-width : min width of screen size
+        max--width: max width of screen  size
+        ore
