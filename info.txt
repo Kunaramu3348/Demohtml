@@ -25,4 +25,5 @@ CSS allows 'media Queries' to make website responsive
 media Queries contains:
         min-width : min width of screen size
         max--width: max width of screen  size
-        ore
+        
+something
